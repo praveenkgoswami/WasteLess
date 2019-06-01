@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / company icons / environment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wasteless_home-page_UI_menu" transform="translate(-694.000000, -196.000000)">
+            <g id="company-menu" transform="translate(644.000000, 88.000000)">
+                <g id="icons-/-company-icons-/-environment" transform="translate(50.000000, 108.000000)">
+                    <g id="Group-3">
+                        <circle id="Oval-7" stroke="#99FF99" stroke-width="2" fill="#FFFFFF" cx="18" cy="18" r="17"></circle>
+                        <path d="M18,17 L18,17 C18.5522847,17 19,17.4477153 19,18 L19,26 C19,26.5522847 18.5522847,27 18,27 L18,27 C17.4477153,27 17,26.5522847 17,26 L17,18 C17,17.4477153 17.4477153,17 18,17 Z M18,11 C17.642846,11 16.8534943,12.0832715 16.1762954,13.8989043 C15.4660266,15.8032007 15,18.1175767 15,19.7249114 C15,20.6515807 15.1397635,21.4065307 15.4348018,21.9117285 C15.75,22.4514462 16.799603,23 18,23 C19.1973882,23 20.25,22.4514462 20.5616268,21.9185742 C20.858257,21.4113456 21,20.6555753 21,19.7249114 C21,18.1175767 20.5339734,15.8032007 19.8237046,13.8989043 C19.1465057,12.0832715 18.357154,11 18,11 Z M18,9 C20.6286912,9 23,15.2180987 23,19.6666667 C23,20.9295359 22.7637582,22.0005708 22.2985143,22.8698422 C21.4280559,24.4962249 19.8571257,25 18,25 C16.1379904,25 14.5639544,24.4921956 13.6950593,22.8577947 C13.2340481,21.9906278 13,20.9236855 13,19.6666667 C13,15.2180987 15.3713088,9 18,9 Z" id="leaf" fill="#C0C0CC" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

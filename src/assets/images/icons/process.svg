@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / process</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons-/-process" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" fill="#99FF99">
+            <circle id="Oval-7" cx="30" cy="30" r="30"></circle>
+        </g>
+        <path d="M24.9995814,18.4338351 C20.2751108,19.8356306 17,24.4835617 17,30.0012909 C17,36.6287079 21.7867966,42.0012909 28,42.0012909 L28,46.0012909 C19.7157288,46.0012909 13,38.8378469 13,30.0012909 C13,22.2609652 18.1528269,15.8043805 24.9990988,14.321544 L24.9987091,11 L31,16.0012909 L24.9998826,21.0011736 L24.9995814,18.4338351 Z" id="Oval-8" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M40.9995814,21.4338351 C36.2751108,22.8356306 33,27.4835617 33,33.0012909 C33,39.6287079 37.7867966,45.0012909 44,45.0012909 L44,49.0012909 C35.7157288,49.0012909 29,41.8378469 29,33.0012909 C29,25.2609652 34.1528269,18.8043805 40.9990988,17.321544 L40.9987091,14 L47,19.0012909 L40.9998826,24.0011736 L40.9995814,21.4338351 Z" id="Oval-8" fill="#FFFFFF" fill-rule="nonzero" transform="translate(38.000000, 31.500645) scale(-1, -1) translate(-38.000000, -31.500645) "></path>
+    </g>
+</svg>
