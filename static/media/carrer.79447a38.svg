@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / company icons / carrer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wasteless_home-page_UI_menu" transform="translate(-694.000000, -256.000000)">
+            <g id="company-menu" transform="translate(644.000000, 88.000000)">
+                <g id="icons-/-company-icons-/-carrer" transform="translate(50.000000, 168.000000)">
+                    <g id="Group-3" fill="#FFFFFF" stroke="#99FF99">
+                        <circle id="Oval-7" stroke-width="2" cx="18" cy="18" r="17"></circle>
+                    </g>
+                    <g id="Group-9" transform="translate(10.000000, 10.000000)" fill="#C0C0CC">
+                        <rect id="Rectangle-4" x="5" y="9" width="6" height="2" rx="1"></rect>
+                        <path d="M1.14,4 L14.86,4 C15.4896046,4 16,4.51039539 16,5.14 L16,14.86 C16,15.4896046 15.4896046,16 14.86,16 L1.14,16 C0.510395385,16 -1.44940277e-16,15.4896046 -2.22044605e-16,14.86 L0,5.14 C-7.71043276e-17,4.51039539 0.510395385,4 1.14,4 Z M2.57,6 C2.25519769,6 2,6.25519769 2,6.57 L2,13.43 C2,13.7448023 2.25519769,14 2.57,14 L13.43,14 C13.7448023,14 14,13.7448023 14,13.43 L14,6.57 C14,6.25519769 13.7448023,6 13.43,6 L2.57,6 Z" id="Rectangle-26"></path>
+                        <path d="M6,4.4408921e-16 L10,4.4408921e-16 C11.1045695,2.41183085e-16 12,0.8954305 12,2 L12,5 L4,5 L4,2 C4,0.8954305 4.8954305,6.46995335e-16 6,4.4408921e-16 Z M7,2 C6.44771525,2 6,2.44771525 6,3 L6,4 L10,4 L10,3 C10,2.44771525 9.55228475,2 9,2 L7,2 Z" id="Rectangle-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

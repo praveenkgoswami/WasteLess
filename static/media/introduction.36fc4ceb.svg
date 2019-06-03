@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / introduction</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons-/-introduction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#99FF99" cx="30" cy="30" r="30"></circle>
+        <path d="M30.2426407,36 L39,36 C39.5522847,36 40,35.5522847 40,35 L40,25 C40,24.4477153 39.5522847,24 39,24 L21,24 C20.4477153,24 20,24.4477153 20,25 L20,35 C20,35.5522847 20.4477153,36 21,36 L23.7573593,36 L26.2928932,38.5355339 C26.6834175,38.9260582 27.3165825,38.9260582 27.7071068,38.5355339 L30.2426407,36 Z M31.8994949,40 L28.4142136,43.4852814 C27.633165,44.26633 26.366835,44.26633 25.5857864,43.4852814 L22.1005051,40 L18,40 C16.8954305,40 16,39.1045695 16,38 L16,22 C16,20.8954305 16.8954305,20 18,20 L42,20 C43.1045695,20 44,20.8954305 44,22 L44,38 C44,39.1045695 43.1045695,40 42,40 L31.8994949,40 Z" id="Rectangle-26" fill="#FFFFFF"></path>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons-/-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval" fill="#99FF99" cx="16" cy="16" r="16"></circle>
+            <path d="M18.6213203,6.42893219 L18.6213203,6.42893219 C19.4456361,6.34650061 20.1807001,6.9479166 20.2631317,7.77223239 L21.4731145,19.8720604 C21.5830233,20.9711481 20.7811353,21.9512334 19.6820476,22.0611422 C19.6159179,22.0677552 19.5494996,22.0710678 19.4830401,22.0710678 L14.4644661,22.0710678 C13.636039,22.0710678 12.9644661,21.3994949 12.9644661,20.5710678 L12.9644661,20.5710678 C12.9644661,19.7426407 13.636039,19.0710678 14.4644661,19.0710678 L18.3780526,19.0710678 L17.2780201,8.07074355 C17.1955886,7.24642775 17.7970045,6.51136377 18.6213203,6.42893219 Z" id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" transform="translate(17.328741, 14.175372) rotate(45.000000) translate(-17.328741, -14.175372) "></path>
+        </g>
+    </g>
+</svg>

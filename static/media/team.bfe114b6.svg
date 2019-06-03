@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / company icons / team</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wasteless_home-page_UI_menu" transform="translate(-694.000000, -316.000000)" fill="#FFFFFF">
+            <g id="company-menu" transform="translate(644.000000, 88.000000)">
+                <g id="icons-/-company-icons-/-team" transform="translate(50.000000, 228.000000)">
+                    <circle id="Oval-7" stroke="#99FF99" stroke-width="2" cx="18" cy="18" r="17"></circle>
+                    <g id="team" stroke-width="1" transform="translate(8.000000, 10.500000)" stroke="#C0C0CC">
+                        <g id="person" transform="translate(10.000000, 1.500000)" stroke-width="2">
+                            <path d="M1.51662988,8.61487251 C1.46571242,8.73688718 1.43949529,8.86778742 1.43949529,9 C1.43949529,9.55229814 1.8872214,10.0000243 2.4395148,10.0000243 L7.56035376,10 C7.69256203,10 7.82345801,9.97378386 7.9454688,9.92286831 C8.45515334,9.71017506 8.69591317,9.12457107 8.48322182,8.61488693 C7.73378328,6.81898022 6.61650158,6 4.99992284,6 C3.38334821,6 2.2660685,6.81897589 1.51662988,8.61487251 Z" id="Path-3" fill-rule="nonzero"></path>
+                            <circle id="Oval-7" cx="5" cy="3.5" r="2"></circle>
+                        </g>
+                        <g id="person" stroke-width="2">
+                            <path d="M1.37339155,12.682632 C1.33915266,12.7849401 1.32169476,12.8921146 1.32169476,13 C1.32169476,13.5522924 1.76941623,14.0000139 2.32170717,14.0000139 L11.6780976,14 C11.7859782,14 11.893148,13.982543 11.9954517,13.9483059 C12.5191755,13.7730355 12.8016593,13.2063815 12.6264023,12.6826616 C11.5588196,9.49262696 9.72970553,8 6.99989198,8 C4.27008657,8 2.44097587,9.49261776 1.37339155,12.682632 Z" id="Path-3" fill-rule="nonzero"></path>
+                            <circle id="Oval-7" cx="7" cy="4.5" r="3"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

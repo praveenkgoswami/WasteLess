@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons / development</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons-/-development" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#99FF99" cx="30" cy="30" r="30"></circle>
+        <g id="Group" transform="translate(15.000000, 22.000000)" stroke="#FFFFFF" stroke-width="4">
+            <path d="M13,13 L4,13 C3.44771525,13 3,12.5522847 3,12 L3,3" id="Rectangle-6" transform="translate(8.000000, 8.000000) rotate(45.000000) translate(-8.000000, -8.000000) "></path>
+            <path d="M27,13 L18,13 C17.4477153,13 17,12.5522847 17,12 L17,3" id="Rectangle-6" transform="translate(22.000000, 8.000000) scale(-1, 1) rotate(45.000000) translate(-22.000000, -8.000000) "></path>
+        </g>
+    </g>
+</svg>
